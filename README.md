@@ -2,7 +2,7 @@
 
 This application provides a list of items within a variety of categories as well as provide a user registration and authentication system. Registered users will have the ability to post, edit and delete their own items.
 
-This is the same application of [project 4] (https://github.com/H-Wardak/item-catalog)
+This is the same application of [project 4](https://github.com/H-Wardak/item-catalog)
 
 
 
