@@ -8,7 +8,7 @@ This is the same application of [project 4](https://github.com/H-Wardak/item-cat
 **IP address**
 18.195.49.168
 
-**Web Application URL** \n
+**Web Application URL**  
 AWS-Server: http://ec2-18-195-49-168.eu-central-1.compute.amazonaws.com
 
 
