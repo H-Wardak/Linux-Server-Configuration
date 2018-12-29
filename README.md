@@ -8,13 +8,11 @@ This is the same application of [project 4](https://github.com/H-Wardak/item-cat
 **IP address**
 18.195.49.168
 
-**Web Application URL**
+**Web Application URL** \n
 AWS-Server: http://ec2-18-195-49-168.eu-central-1.compute.amazonaws.com
 
 
 
-
-The application is develped using Python language, leveraged Flask framework utilities, SQLAlchemy is used to communicate with the SQLite DB and OAuth2 for user login process.
 1. Run ``` python database_setup.py ```
 2. Run ``` python application.py ```
 3. Run the application on Port **8000**
@@ -22,5 +20,3 @@ The application is develped using Python language, leveraged Flask framework uti
 ## Restrictions
 - User can use Google Authentication API to log in to the application
 - Only logged-in users can add, edit, delete items
-- A user can only edit/delete his own items
-- Category edit/delete not yet provided
