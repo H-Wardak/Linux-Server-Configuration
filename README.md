@@ -5,7 +5,7 @@ This application provides a list of items within a variety of categories as well
 This is the same application of [project 4](https://github.com/H-Wardak/item-catalog) Item Catalog, but hosted in Amazon Lightsail host service.
 
 ## Access the Project?
-**IP address**
+**IP address**  
 18.195.49.168
 
 **Web Application URL**  
