@@ -65,7 +65,7 @@ AWS-Server: http://ec2-18-195-49-168.eu-central-1.compute.amazonaws.com
 - Configure Google+ Oauth URIs to reflect our Web APP URL
 
 ## Reference
-- In details steps fount [here](https://github.com/elnobun/Linux-Server-Configuration)
+- An in-detail steps can be found [here](https://github.com/elnobun/Linux-Server-Configuration)
 
 
 
