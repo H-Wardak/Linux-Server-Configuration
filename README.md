@@ -46,10 +46,10 @@ AWS-Server: http://ec2-18-195-49-168.eu-central-1.compute.amazonaws.com
 - Install oauth2  
 ``` sudo pip install oauth2client ```
 
-- Install passlib
+- Install passlib  
 ``` sudo apt-get install python-passlib ```
 
-- Install requests
+- Install requests  
 ``` sudo install python-requests ```
 
 ## Configuration Summary
